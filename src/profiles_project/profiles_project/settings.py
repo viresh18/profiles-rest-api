@@ -25,7 +25,7 @@ SECRET_KEY = '$ei==cwyu3&hv5t2yk+=%ei-+0e%8tzi_-4a+!*s67^r^e_3ta'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['profile-rest-api.eastus.cloudapp.azure.com']
 
 
 # Application definition
